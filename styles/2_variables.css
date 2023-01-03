@@ -1,0 +1,14 @@
+:root {
+  --blue: #2f70fe;
+  --light-green: rgba(0, 255, 133, 0.08);
+  --green: #6ded02;
+  --light-gray: #e5e5e5;
+  --white: #fff;
+  --black: #000000;
+
+  --font-sm: 14px;
+  --font-md: 16px;
+  --font-l: 28px;
+  --font-xl: 40px;
+  --font-xxl: 48px;
+}
